@@ -11,9 +11,9 @@ Todas las imágenes, documentos, links y comentarios del código fuente se almac
 
 ## Testeado en
 
-* Kali Linux 2024.1
+* Kali Linux 2025.1
 * Kali Nethunter
-* Arc Linux
+* Arch Linux
 
 ## Instalación
 
